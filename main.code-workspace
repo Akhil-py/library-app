@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "main"
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"library catalog and review/lib/mysql-connector-j-8.0.31.jar"
+		]
+	}
+}
